@@ -1,0 +1,1 @@
+Implementing stereo vision for two simple webcams in python and OpenCV.
